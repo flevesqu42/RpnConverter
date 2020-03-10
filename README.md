@@ -1,6 +1,6 @@
 **Description:**
 
-Take already splited standard notation as mutable VeqDeque, and convert it into a Vec with parenthesis removal.
+Take already splited standard notation as mutable VecDeque, and convert it into a Vec with parenthesis removal.
 
 For example:
 
